@@ -3,7 +3,7 @@ links to interesting web dev articles and tutorials
 
 ## 2018
 ### June 22
--[Do more with less! Using render props](https://hackernoon.com/do-more-with-less-using-render-props-de5bcdfbe74c)
+- [Do more with less! Using render props](https://hackernoon.com/do-more-with-less-using-render-props-de5bcdfbe74c)
 ### June 6
 - [How to deploy a Node.js application to Amazon Web Services using Docker](https://medium.freecodecamp.org/how-to-deploy-a-node-js-application-to-amazon-web-services-using-docker-81c2a2d7225b)
 - [How to build your own React boilerplate](https://codeburst.io/how-to-build-your-own-react-boilerplate-1a97d09337fd)
